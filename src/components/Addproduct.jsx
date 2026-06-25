@@ -1,8 +1,8 @@
 import { useState } from "react";
 import { supabase } from "../supabase.js";
-import "./AddProduct.css";
+import "./Addproduct.css";
 
- export function AddProduct() {
+ export function Addproduct() {
   const [pname, setPname] = useState("");
   const [des, setDes] = useState("");
   const [price, setPrice] = useState("");
