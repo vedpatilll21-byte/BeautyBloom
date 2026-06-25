@@ -7,7 +7,7 @@ import { About } from "./components/About"
 import { Contact } from "./components/Contact"
 import {Skincare} from  "./components/Skincare"
 import { Makeup } from "./components/Makeup";
-import {AddProduct} from "./components/AddProduct"
+import {Addproduct} from "./components/Addproduct"
 function Home() {
   return <Hero />;
 }
